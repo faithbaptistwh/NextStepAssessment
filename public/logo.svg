@@ -1,0 +1,12 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 24 24' fill='none'>
+    <rect x='2' y='4' width='20' height='16' rx='2' ry='2' fill='black' />
+    <polyline points='8 17 12 13 16 17' stroke='white' strokeWidth='4' strokeLinecap='round' strokeLinejoin='round' />
+    <polyline points='8 11 12 7 16 11' stroke='white' strokeWidth='4' strokeLinecap='round' strokeLinejoin='round' />
+</svg>
+
+
+
+
+
+
+
